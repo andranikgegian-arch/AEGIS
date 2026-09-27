@@ -1,0 +1,14 @@
+{
+  "name": "aegis-shield",
+  "version": "1.0.0",
+  "description": "AEGIS - Schutz vor Betrug",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo build done"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/cli": "^6.1.0"
+  }
+}
